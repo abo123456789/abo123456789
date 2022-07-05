@@ -28,7 +28,7 @@
                 <a href="https://github.com/abo123456789/py_log">py_log</a>
             </td>
             <td>
-                pip install py_log <br>
+                pip install py-log <br>
                 日志工具(支持文件,邮件,钉钉,企业微信)
             </td>
         </tr>
