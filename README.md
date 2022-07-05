@@ -29,7 +29,7 @@
             </td>
             <td>
                 pip install py_log <br>
-                simple logging tool(support file,email,dingtalk, wechat)
+                日志工具(文件,邮件,钉钉,企业微信)
             </td>
         </tr>
         <tr>
@@ -38,7 +38,7 @@
             </td>
             <td>
                 pip install translate-util <br>
-                translate utils support google,baidu,iciba,youdao
+                翻译工具支持google,baidu,iciba,youdao
             </td>
             <td>
                 <a href="https://pypi.org/project/geo-tool">geo-tool</a>
