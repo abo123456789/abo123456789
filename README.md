@@ -18,14 +18,14 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/abo123456789/re_helper">re_helper</a>
+                <a href="https://github.com/abo123456789/re_helper">re-helper</a>
             </td>
             <td>
-                pip install re_helper <br>
+                pip install re-helper <br>
                 开箱即用正则表达式工具,不会正则也可以快速上手
             </td>
             <td>
-                <a href="https://github.com/abo123456789/py_log">py_log</a>
+                <a href="https://github.com/abo123456789/py_log">py-log</a>
             </td>
             <td>
                 pip install py-log <br>
