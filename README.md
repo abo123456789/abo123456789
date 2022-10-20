@@ -48,6 +48,19 @@
                  经纬度解析转换库(支持百度,高德,谷歌)
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/abo123456789/schematics">schemv</a>
+            </td>
+            <td>
+                pip install schemv <br>
+                数据格式强校验工具
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
     </table>
 </html>
 
