@@ -57,8 +57,11 @@
                 数据格式强校验工具
             </td>
             <td>
+                <a href="https://github.com/abo123456789/curd2">curd2</a>
             </td>
             <td>
+                pip install curd2 <br>
+                最简单数据写入工具支持(mysql,hbase,cassandra)
             </td>
         </tr>
     </table>
