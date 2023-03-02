@@ -64,6 +64,19 @@
                 最简单数据写入工具支持(mysql,hbase,cassandra)
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://pypi.org/project/freechatgpt/">freechatgpt</a>
+            </td>
+            <td>
+                pip install freechatgpt <br>
+                免费调用chatgpt的工具包
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
     </table>
 </html>
 
